@@ -5,3 +5,5 @@ machine learning model for a dog's breed identification from an image.
 
 2.You'll have to create a Dogvision folder and download the datasets from kagle dog breed classfication.
 
+3.If you want to use an already trained model you can get that from models folder
+
